@@ -3,15 +3,19 @@
 
 #define N 10
 
-typedef struct {
+typedef struct
+{
     char name[10];
     int score;
-}stu;
+} stu;
 
-stu search_info(stu dt[], char *qst) {  
+stu search_info(stu dt[], char *qst)
+{
     stu res;
-    for (int i = 0; i < N; i++) {
-        if (strcmp(dt[i].name, qst) == 0) { 
+    for (int i = 0; i < N; i++)
+    {
+        if (strcmp(dt[i].name, qst) == 0)
+        {
             strcpy(res.name, dt[i].name);
             res.score = dt[i].score;
             return res;
@@ -22,7 +26,8 @@ stu search_info(stu dt[], char *qst) {
     return res;
 }
 
-int main() {
+int main()
+{
     stu data[N] = {0};
     stu result;
     char quest[10];

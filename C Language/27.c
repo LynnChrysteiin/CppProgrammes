@@ -3,7 +3,8 @@
 
 #define N 100
 
-int main() {
+int main()
+{
     char str[N];
     scanf("%s", &str);
     int n;
@@ -12,11 +13,11 @@ int main() {
     int len = 0;
     for (; (*ptr) && (*ptr == '*'); *ptr++)
         len++;
-    if (len>n)
-        for (int i=0; i<n; i++)
+    if (len > n)
+        for (int i = 0; i < n; i++)
             printf("*");
     else
-        ptr-=len;
+        ptr -= len;
     while (*ptr)
         printf("%c", *ptr++);
     system("pause");

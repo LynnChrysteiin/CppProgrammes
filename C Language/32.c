@@ -1,10 +1,13 @@
 #include <stdio.h>
 #include <iostream>
 
-int get_amount(int array[], int n, int result[]) {
+int get_amount(int array[], int n, int result[])
+{
     int count = 0;
-    for (int i = 0; i < n; i++) {
-        if (array[i] < 60) {
+    for (int i = 0; i < n; i++)
+    {
+        if (array[i] < 60)
+        {
             result[count] = array[i];
             count++;
         }
@@ -12,7 +15,8 @@ int get_amount(int array[], int n, int result[]) {
     return count;
 }
 
-int main() {
+int main()
+{
     int m;
     scanf("%d", &m);
     int num[m];

@@ -1,7 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main() {
+int main()
+{
     double a;
-    while(scanf("%lf", &a)!=EOF) printf("%lf", a*a);
+    while (scanf("%lf", &a) != EOF)
+        printf("%lf", a * a);
     return 0;
 }

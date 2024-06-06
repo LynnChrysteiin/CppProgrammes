@@ -20,7 +20,7 @@ void sort(int *a)
         {
             if (a[j] < a[idx])
                 idx = j;
-        }  
+        }
         if (idx != i)
         {
             tmp = a[idx];
@@ -33,12 +33,12 @@ void sort(int *a)
 void output(int *a)
 {
     int *p = a;
-    for (int i = 0; i < n; i ++)
+    for (int i = 0; i < n; i++)
         printf("%d ", *p++);
 }
 
 int main()
-{   
+{
     int a[n];
     input(a);
     sort(a);

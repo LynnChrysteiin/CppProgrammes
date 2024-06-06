@@ -3,11 +3,14 @@
 
 #define n 100
 
-void cat(char *srcStr, char *dstStr) {
-    while (*srcStr != 0) {
+void cat(char *srcStr, char *dstStr)
+{
+    while (*srcStr != 0)
+    {
         if (*dstStr != 0)
             dstStr++;
-        else {
+        else
+        {
             while (*srcStr != 0)
                 *dstStr++ = *srcStr++;
         }
@@ -15,7 +18,8 @@ void cat(char *srcStr, char *dstStr) {
     *dstStr = 0;
 }
 
-int main() {
+int main()
+{
     char a[n], b[n];
     scanf("%s%s", a, b);
     cat(a, b);
