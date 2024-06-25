@@ -201,7 +201,7 @@
 
 #### X1.1
 
-- X1.1.1 [](X1/X1.1/X1.1.1.cpp)
+- X1.1.1 [并查集](X1/X1.1/X1.1.1.cpp)
 
 ---
 
@@ -215,15 +215,34 @@
 
 #### X2.2 树形结构
 
+- X2.2.1 [二叉排序树]()
+- X2.2.2 [平衡二叉树]()
+- X2.2.3 [红黑树]()
+- X2.2.4 [B树]()
+- X2.2.5 [B+树]()
+
 #### X2.3 散列结构
+
+- X2.3.1 [散列（哈希）查找]()
 
 ---
 
 ## X3 排序
 
-#### X3.1
+#### X3.1 内部排序
 
-- X3.1.1[](X3/X3.1/X3.1.1.cpp)
+- X3.1.1 [插入排序](X3/X3.1/X3.1.1.cpp)
+- X3.1.2 [希尔排序](X3/X3.1/X3.1.2.cpp)
+- X3.1.3 [冒泡排序](X3/X3.1/X3.1.3.cpp)
+- X3.1.4 [快速排序](X3/X3.1/X3.1.4.cpp)
+- X3.1.5 [简单选择排序](X3/X3.1/X3.1.5.cpp)
+- X3.1.6 [堆排序]()
+- X3.1.7 [归并排序]()
+- X3.1.8 [基数排序]()
+
+#### X3.2 外部排序
+
+- X3.2.1 []()
 
 <br>
 <div style="text-align:center">Tests for Data Structure Lesson<br>Copyright &copy; LynnChrysteiin 2024 &nbsp;|&nbsp; All Rights Reserved<br>GitHub: <a href="https://github.com/LynnChrysteiin">LynnChrysteiin</a><br>OJ: <a href="http://oj.dhu.edu.cn">Donghua University Online Judge 2.0</a></div>
