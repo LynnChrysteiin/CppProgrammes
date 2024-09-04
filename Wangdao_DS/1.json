@@ -1,0 +1,1137 @@
+{
+  "targetVersion": 6,
+  "author": "星辰",
+  "contact": "zdh13341346934@163.com",
+  "message": "测试订阅，请勿传播！",
+  "version5Link": "SonicePlus://Ox6fMK0Z5XcWSAWT1F1h5WhWNowaMLwdm3515aVzmpD1L39lFPAykPShMKRfOpZ1L39VloZlFQMyL39ajKqZL39bNLslFy5SGZhgjbHgkWSBlP9fJQHANPR9NQHqObZwGwmalbVZkZAywb6Ew4HsuuV7vad0lXr0HLYhGpATKvMesiVqutvys3vyruDWF36ylonxNt515aVzmpEyIZhgL39BjKSbOKnfFK6VjKs0FuixHu50G450G4YfMP9yFanhFKSVkaAAkalfkLZqMPqgmKrfMP9eL39ymK6yMQ6AMavfjbHgkW69",
+  "editable": true,
+  "searchConfig": [
+    {
+      "configName": "看美剧",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOlRhrFSzsYLUDe7XfVIy1UR0O9IyOdLU1tiU1N3zDeDbBU5W1U+WjtibG8KXrl+",
+      "itemUrlRegex": "bOlRhrFSzsYLUDe7XfVIy1UR0O9IyOdLU1tiU1N3zDeDbBU3X13/WBU+X13KXrl+",
+      "playerBoot": "AliPlayer",
+      "searchNameRegex": "bORrUOZohgZHbBVIxgAoqBU+bOlRxTV9q2I1X131b1R5W2K4bjLSb276xkh+",
+      "searchPictureRegex": "qOmIhBJ6zD9ExfuSykI1WjtibG81",
+      "searchStateRegex": "bTZ7hftRhrFSzsYLUDFShDeoUTA9PTcp0TVJyDZS0Od1b1R5W2K4bjLHzOm5bR==",
+      "searchUrl": "xTAIzTYvXGLnyfe4xEd5hrLpXJZ9hgV2xjKpXBIpXBIpXBIpXBIpXDSIyf7/0rcLPJZ9hgV2xm06zDAL",
+      "searchUrlRegex": "bORrUOZohgZHbBVIxgAoqBU+bOlRxTV9q2I1WjtibG81b1tibjLSb276xkh+"
+    },
+    {
+      "configName": "全看(推荐)",
+      "configType": "WebPage2",
+      "encrypted": true,
+      "extensions": "unknown",
+      "finalUrl": "PJV9hfFezDFbz898QCLUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "itemNameRegex": "bOF4b2FSUOSGqfhLU1tiU2t3X13/WC76hCtKXrF4bR==",
+      "itemRangeRegex": "bTeoUOZohgZHbBVH0Te4XfZ6yEA9yEAQgsNohg9oxgZIUOZoqfmGqD9tU2t3fJFsgm00W2K4bjLJykt=",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALbIS9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "bOF4b2FSUOSGqfhLU1R5W2K4U2t5W276hCtKXrF4bR==",
+      "playerBoot": "AliPlayer",
+      "realUrl": "PI9IqfJezDFbz898QCLUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "searchNameRegex": "bOlRxTV9q2I1XrA90Om4yjLzqj35xTApyjUR0O9IyOdLU1tiU2t3X13/WC76hCt=",
+      "searchPictureRegex": "qOmIhBJ6zD9ExfuSykI1WjtibG81",
+      "searchStateRegex": "bTZ7hftRhrFSzsYLUEN4hGJIqgSIUTA9PTcpzD9ExTc1b1R5W2K4bjLHzOm5bR==",
+      "searchUrl": "xTAIzTYvXGLs0sz5zfpsYBu2hGLHqfmGhrR6XBIpXBIpXBIpXBIpXBu30OJobs08bgpCqfmGhrSgysV8QBqH0fVpxgcLbIS9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "searchUrlRegex": "bOlRxTV9q2I1WjL8qgASxf76gOciXDSIyf74U1NIxgAoqCI1X131b1tibjLSbR=="
+    },
+    {
+      "configName": "马影视(推荐)",
+      "configType": "MacCMS",
+      "encrypted": true,
+      "extensions": "undetermined",
+      "matchSource": "nmys2",
+      "playerBoot": "AliPlayer",
+      "realUrl": "xTAIzk36XsNSy1uFxfm6xD8tXDZ6yBLI0DV6PjL5qf910Bu7xTM/0gVobgpV0OepegVoCsVVqTI=",
+      "realUrlRegex": "UEeGyjUvgTY/U1R5W2K4UR==",
+      "searchUrl": "xTAIzk36XHlGZjtGY2U5YClrX2d6yfU6hgN4XEN3zjL7zDLrxfA9Xsq6qjK/hfYL0D98qfLoxgZIVE08bgpCqfmGhrSgysV8Qc==",
+      "usable": true
+    },
+    {
+      "configName": "蚂蚁(推荐)",
+      "configType": "MacCMS",
+      "encrypted": true,
+      "extensions": "undetermined",
+      "matchSource": "NBY",
+      "playerBoot": "AliPlayer",
+      "realUrl": "xTAIzTYvXGLuxfuEyBu2hGLiPkl5zOS7bseGykJwBgA9yeeGylLGBfALVDp9PCJwBD99PO9ZqkeL",
+      "realUrlRegex": "UEeGyjUvgTY/U1R5W2K4UR==",
+      "searchUrl": "xTAIzTYvXGLs0sz5Pf95qrI5hrY6hr35zOS7bs08bgpCqfmGhrSgysV8Qc=="
+    },
+    {
+      "configName": "六度",
+      "configType": "WebPage2",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "U9LHqfFDU2t3X13/WC76hCtKXrF4bR==",
+      "itemRangeRegex": "bOA401N2yOmHzHI1yEepCO9H0jU+Wmpz0JFggB3/WC760f7+",
+      "itemUrl": "xTAIzTYvXGKrqjuvPDAShrLJXDZ6yBLwdreSzDZ3egVoCsVVqTI=",
+      "itemUrlRegex": "xTV9q2I1WjtibG81",
+      "searchNameRegex": "bOF4UOZohgZHbBV40OepU2tRbOlRxTV9q2I1X13/U1NIxgAoqCI1WjtibG81UOZohgZHbBV40OepXfF4yDo1bR==",
+      "searchPictureRegex": "hfFIbBVzfsq4qOe6yO9H0k45hfJ9gmI1UOAS0OlpysV4qr95hf7LU1R5W2K4UR==",
+      "searchTypeRegex": "uwOwuqvXwwGxbjLHzOm5b1R5W2K4UkFHzOm5UOZohgZHbBVoxfu9xjU+",
+      "searchUrl": "dlLCek430TA7zH36XHq8XE4vqOm2ysd5hrLpXHL2bgZ9hgV2xjqcysZIcDL8PCJwUDZoU231PJZ9hgV2xm06zDALUEI=",
+      "searchUrlRegex": "bOF4UOZohgZHbBV40OepU2tRbOlRxTV9q2I1WjtibG81UTA40OF9bBU5W2K1UOZohgZHbBV40OepXfF4yDo1bR==",
+      "searchYearRegex": "uyDIuX5LwwGxbjLHzOm5b1R5W2K4Uk76zsNSy2t="
+    },
+    {
+      "configName": "bttwoo",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOlRxTV9q2I1X131b1R5W2K4bjLSbR==",
+      "itemRangeRegex": "bOA401N2yOmHzHI1zOmoPeLoxgZIgrVIy1U+Wmpz0JFggB3/WC76qO9rbR==",
+      "itemUrlRegex": "bOlRxTV9q2I1WjtibG81b1tibjLSbR==",
+      "searchNameRegex": "hfFIbBU3X13/WBURqOmIhBJ6zD9ExfuSykI1X13/U2t=",
+      "searchPictureRegex": "hfFIbBU5W2K1UOAS0OlpysV4qr95hf7LU1R5W2K4U2t=",
+      "searchStateRegex": "qO9HzOFSPC3RyDL5qCo1b1R5W2K4bjL7b1MKXrF4bR==",
+      "searchUrl": "xTAIzTYvXGLs0sz5hEAI0rL6XDZ6yBLtzsZHzreSzDZ3bslLPJZ9hgV2xm06zDAL",
+      "searchUrlRegex": "bOF4b1MKhBN3zDeDbBU3X13/WBUR0OmGqreIbBVQhDFSyDo1b1MKxfJEUOZohgZHbBVIxTeph1Nohg4uUR=="
+    },
+    {
+      "configName": "快看",
+      "configType": "Kuaikan",
+      "encrypted": true,
+      "itemUrl": "xTAIzTYvXGLSzO850T9Jy2zsXDZ5Xrm7xBu7xTM6zTV60D98qBLrxfA9yJNohg9oxgZI",
+      "loginUrl": "xTAIzTYvXGLSzO850T9Jy2zsXDZ5Xrm7xBu7xTM6zTV60D98qBL7hgVHqgVezD7=",
+      "searchUrl": "xTAIzTYvXGLSzO850T9Jy2zsXDZ5Xrm7xBu7xTM6zTV60D98qBLHqfmGhrSfxfA9y7=="
+    },
+    {
+      "configName": "茉莉",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "b1R5W2K4bjLSb276yO8+",
+      "itemRangeRegex": "bOA401N2yOmHzHI10Om1XfZ6yEA9yEcRyg9JxBJ7hfu9ymL1qjU+WmpzeJFsgB3/WC760f7+",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "xTV9q2I1WjtibG81",
+      "searchNameRegex": "bORIUOZohgZHbBVIxgAoqBU+bOlRxTV9q2I1X13/U2t3X13/WC76hCtKXrRIbR==",
+      "searchPictureRegex": "0O9IyOdLU1R5W2K4U1N8hgASXfLGxf04yDmobBU3X13/WBU+",
+      "searchStateRegex": "bTZ7hftRhrFSzsYLUEN4hGJIqgSIUTA9PTcpzD9ExTc1b1R5W2K4bjLHzOm5b1MKXrl+",
+      "searchTypeRegex": "uh1OuwOwwwGxbjLHzOm5b1R5W2K4bM==",
+      "searchUrl": "xTAIzTYvXGLs0sz5xOApyrF4XENGyGLHqfmGhrR5zOS7bsZ9hgV2xT06zDcLPJZ9hgV2xm06zDALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "searchUrlRegex": "bORIUOZohgZHbBVIxgAoqBU+bOlRxTV9q2I1WjtibG81b1tibH76hCtKXrRIbR==",
+      "searchYearRegex": "uyDIuX5LwwGxbjLHzOm5b1R5W2K4bjL7bR=="
+    },
+    {
+      "configName": "电影港(推荐)",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "YCS7PjU+X13/bOlRxTV9q2I1X13/U2t3X13/WC76hCtKXsA8bR==",
+      "itemRangeRegex": "ttjcuX1XvXrLuqG7uqrMttjAWmpzeJFsgB3/WC760OV6qT8+",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "YCS7PjU+X13/bOlRxTV9q2I1WjtibG81b1tibH76hCtKXsA8bR==",
+      "playerBoot": "IjkMCCPlayer",
+      "searchNameRegex": "bOF4UOZohgZHbBV7YBNpYBU+bOlRhrFSzsYLUDF4yDopxOLrqgU1UOSGqfhLU1tibGUR0O9IyOdLU1R5W2K4U2t=",
+      "searchPictureRegex": "bO9pqGN2yOmHzHI1yOmvPBURqOmIhBJ6zD9ExfuSykI1WjtibG81UTZGh7==",
+      "searchStateRegex": "bTMRhrFSzsYLUDLIxOeGU2tKxCt3X13/WC76xCtKXsM+",
+      "searchUrl": "dlLCek430TA7zH36Xs0s0Gu8Pf0SyD0HXDLGqGL9XsZ9hgV2xjL4yDA9Pju7xTM/dOLH0lV6qT8LPGVnqg91yrmGqjUvUEpCqfmGhrSgysV8CDLmyDZGPgNIxfL5QBUoUEZJhDJ40jUvU5xcEj6EpWU1XjVHxOLsU2310O9IyOdoPDSJPfm5U1710OepzO98U231YBVLV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "searchUrlRegex": "bOF4UOZohgZHbBV7YBNpYBU+bOlRhrFSzsYLUDF4yDopxOLrqgU1UOSGqfhLU1R5W2K4U1NIxgAoqCI1X13/U2t="
+    },
+    {
+      "configName": "磁力(推荐)",
+      "configType": "WebPage2",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOlRxTV9q2I1X13/U1NIxgAoqCI1WjtibG81UTASzD090kI1grVohfunU2t=",
+      "itemRangeRegex": "bTeoUOZohgZHbBV7hfu9yjN8ys05XfF4zsc3fJFggT00W2K4bjLJykt=",
+      "itemUrlRegex": "bOlRxTV9q2I1WjtibG81UTA40OF9bBU5W2K1UTASzD090kI1grVohfunU2t=",
+      "playerBoot": "IjkMCCPlayer",
+      "searchNameRegex": "hfFIbBX2RU33X13/WPaM1GU=",
+      "searchPictureRegex": "bOF4b2FSUOSGqfhLU1tibGU+bO9pqGN2yOmHzHI1yOmvPBURqOmIhBJ6zD9ExfuSykI1WjtibG81",
+      "searchUrl": "dlLCek430TA7zH36XrI5ygMI0gY5hrLpXsZ9hgV2xjKDdOLH0lV6qT8LPGVsqjUvUEpCqfmGhrSgysV8CDLmyDZGPgNIxfL5QBVL",
+      "searchUrlRegex": "bOF4b2FSUjR/aEASzD090kI1grVohfunU18/UOSGqfhLU1R5W2K4U2tKxfJEUOZohgZHbBVohg4uU1N8hgASXfLGxf04yDmobBU5W2K1"
+    },
+    {
+      "configName": "迅雷吧(推荐)",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOlRhrFSzsYLUDVSq2q9aCh7qOc1UOSGqfhLU1tibGUR0O9IyOdLU1tibGU+WjtibG8KXrl+",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "hfFIbBU3X13/WBU+uxBZuh1rvqa+u3v9",
+      "playerBoot": "IjkMCCPlayer",
+      "searchNameRegex": "bOlRhrFSzsYLUDVShrqDZ2ZSZHctU1N3zDeDbBU5W2K1b1R5W2K4WkKvgTY3bH4yg9FJZOd7YjJz0C9DhCe0QmFHWBoKXrl+Qk76hCt4",
+      "searchPictureRegex": "bO9pqGNH0T9oqCI1qO9HzOFSPC3RhDF6hrowU1NSyTcLU1tiU1NHzDYLU1R5W2K4U1M6bR==",
+      "searchUrl": "xTAIzTYvXGLt0fuoqf8tXEA6zjLHXspCqfmGhrSgysV8QBu30OJoV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "searchUrlRegex": "bOlRhrFSzsYLUDVShrqDZ2ZSZHctU1N3zDeDbBU3X13/WBU+X13/WkKvgTY3bH4yg9FJZOd7YjJz0C9DhCe0QmFHWBoKXrl+Qk76hCt4"
+    },
+    {
+      "configName": "荐片(推荐)",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "undetermined",
+      "itemNameRegex": "efu4hrL8qBu8qfZ6qOd3UEqSyjUvgTY/U1R5W2K4gjc5W2K1Xj8=",
+      "itemRangeRegex": "UDVIhDLQqOLsyDF4zsc1a9FyWmpz0JFggB3/WeF0",
+      "itemUrl": "xTAIzk36Xrm7xCU5zD95xOLpqBu2yrI6hgN4Xru6qOd6qOeIhf9obrZ3hfu5qf7L0rm5qOLJxD9SVD98bgpCqfmGhrSezDFbz898QBqUqfm8qgULPGVWdlmeelR1a1V5ZE0Gffp9q2ZlAmViBOe4dgm4ydJWPfLVy93re8ujefuuP8ASCI0xZl4DPjUoU9eHqgUpcf09yEc1a1Vixfm5zO9Sy1JSyDAGyr98XHYrY1UoU8Z6yrp4qBUvUEpkyrLnxfeLUEI=",
+      "itemUrlRegex": "efu4hrL8qBu8qfZ6qOd3UEqSyjUvgTY/U1tibJ78WjtibG81Xj8=",
+      "playPosition": "12000",
+      "playerBoot": "IjkMCCPlayer",
+      "searchNameRegex": "efu4hrL8qBu8qfZ6qOd3UEA40OF9U231WjtibG81Xj8=",
+      "searchPictureRegex": "UEArxfJEU231WjtibG81XM==",
+      "searchStateRegex": "efu4hrL8qBu8qfZ6qOd3UDJSzro1a1U3X13/WBUoWc==",
+      "searchTypeRegex": "dsAGxfuEXEV9zOFShreyZlkE5wH31y40WmZIzD95qGuGqgNohfZ9fHmMuuBJuyrFgBSC0TV4yDz5zDe7yOm2qeoGcaPdpP1ES5fV4JI3dsAGxfuEXEV9zOFShreyYIk91i2D6Wp0WjV2hgA9gr98U233X13/WB84WB8=",
+      "searchUrl": "xTAIzk36Xrm7xCU5zD95xOLpqBu2yrI6hgN4Xsq4qOe6XsZ9hgV2xkL7hf09bClDxreubgpCqfmGhrSgysV8QBqUqfm8qgULPGVWdlmeelR1a1V5ZE0Gffp9q2ZlAmViBOe4dgm4ydJWPfLVy93re8ujefuuP8ASCI0xZl4DPjUoU9eHqgUpcf09yEc1a1Vixfm5zO9Sy1JSyDAGyr98XHYrY1VL",
+      "searchUrlRegex": "UD98U233X13/WB7="
+    },
+    {
+      "configName": "神马",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "xTV9q2I1Xsq6qTNohg86X13/U2t3X13/WC76hCtKXrF4bR==",
+      "itemRangeRegex": "bOA401N2yOmHzHI1qDe8XgNohg8pxgA9yBNDqfcpqTV6zjJ40OepUOq9qjJrxgZ4hDF9U2t3fJFsgm00W2K4bjL8xgh+",
+      "itemSkipRegex": "qfL5qBURxTV9q2I1WjtibG81b1R/a1R/a5BKDaDmp+1ES5D18B8/WkKvvUf+vWv6vWPOvxWAWCK3bHnE1XT94hQ31y34bGR/a51W85xPEj8/WkKvvhPbuxrcuXiAWCK3bHnE4qw4ixH854l4bG8nbjLSb276yO8+",
+      "itemSkipUrl": "PJZnxgNezDFbz898QBqUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "xTV9q2I1WjLryrA7yOmuXGtibG81b1tibH76hCtKXrF4bR==",
+      "searchNameRegex": "bORFUOZohgZHbBVDqfcpzOmG0jJ9yru9UOq9qjJDyruIXgSrxBU+bOlRxTV9q2I1X13/U2tKzsNSy1N2yOmHzHI1qDe8XgA9PTcpqsV9qftRqDe8XgA9PTcphDLoqjU+WjtibG8KXsZ7hft+bjLSb276xkl+",
+      "searchPictureRegex": "xTV9q2I1X13/U1N8hgASXfLGxf04yDmobBU3X13/WBU+",
+      "searchStateRegex": "bTZ7hftRhrFSzsYLUDq9qjJoxgZIXgV9yfmGxsYRqDe8Xfq6yEcpPO94UOq9qjJIqgSIXg03xgA9UOq9qjJIqgSIXfZ9yEA9z1U+WjtibG8KXsZ7hft+bjLSbR==",
+      "searchTypeRegex": "uh1OuwOwwwGxbjLHzOm5b2FSUOSGqfhLU1tibGUR0OmGqreIbBVQhDFSyDo1b1R5W2K4bjLSb276yO8+",
+      "searchUrl": "xTAIzTYvXGLs0sz5ysZtaBu2yrI60DL8zreSzDZ3XGIpXBIpXBIpXBIpXBI5xTApykLsqkJwdreSzDZ3erLGqTIDBOeSqOeGbgo1egZ9z1JNqre50jUvUEpgqfVfxfesegZ9z8mEqfuIQBVL",
+      "searchUrlRegex": "bORFUOZohgZHbBVDqfcpzOmG0jJ9yru9UOq9qjJDyruIXgSrxBU+bOlRxTV9q2I1WjtibG81b2FHzOm5UOZohgZHbBVDqfcp0Oet0jJEzDe9y1NDqfcp0Oet0jJ1yrF8U2t5W2KKXsZ7hft+bjLSb276xkl+",
+      "searchYearRegex": "uyDIuX5LwwGxbjLHzOm5b2FSUOSGqfhLU1LryrAHqfmGhrR6XBIpXBIpXBIpXBIpXBSzqj3/WBu30OJoUR=="
+    },
+    {
+      "configName": "素白白-bttwoo",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOlRxTV9q2I1X13/U2t3X13/WC76hCt=",
+      "itemRangeRegex": "bOA401N2yOmHzHI1zOmoPeLoxgZIgrVIy1U+Wmpz0JFggB3/WC76qO9rbR==",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "bOlRxTV9q2I1WjtibG81b1tibH76hCt=",
+      "searchNameRegex": "bOF4b1MKhBN3zDeDbBU5W2K1b1MKxfJEUOZohgZHbBVIxTeph1Nohg4uU1NHzDYLU1tibGURhfFIbBU3X13/WBURqOmIhBJ6zD9ExfuSykI1X13/UR==",
+      "searchPictureRegex": "bOF4b1MKhBN3zDeDbBU5W2K1b1MKxfJEUOZohgZHbBVIxTeph1Nohg4uU1NHzDYLU1tibGURhfFIbBU5W2K1UOAS0OlpysV4qr95hf7LU1R5W2K4UR==",
+      "searchStateRegex": "bTMRhrFSzsYLUD95PDSJPBU+WjtibG8KXsM+",
+      "searchTypeRegex": "bTMRhrFSzsYLUDu6zsASqGURzsAuyOdLUDA4zsNohg8vUOu6yDdwU2t3X13/WBL7b1MKXrF4bR==",
+      "searchUrl": "xTAIzTYvXGLs0sz5zse1hf91hf9uzGu2yrI6zreSzDZ3bslLPJZ9hgV2xm06zDALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "searchUrlRegex": "bOF4b1MKhBN3zDeDbBU3X13/WBU+UkF4yfzRhrFSzsYLUEA30fJ1UOFSPE81UTZGhHI1X13/U1NSyTcLU1tibGURqOmIhBJ6zD9ExfuSykI1X13/UR==",
+      "usable": false
+    },
+    {
+      "configName": "大米",
+      "configType": "WebPage2",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOlRhrFSzsYLUDJ6qTeoqBJ7yOmuXfF4zscpyO95xGURxTV9q2I1X131UTA40OF9bBU5W1U+bTZ7hft+WjtiWC76zsNSy2tKXrl+",
+      "itemRangeRegex": "bOA401N2yOmHzHI1yfL80fF9XgNohg8pyO9H0jU+Wmpz0JFggB3/WC76qO9rbR==",
+      "itemUrl": "xTAIzTYvXGLGZfqoxgR5hrLpXsq6qOA90Om4yjLwdreSzDZ3egVoCsVVqTI5xTApyjqUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "itemUrlRegex": "bOlRhrFSzsYLUDJ6qTeoqBJ7yOmuXfF4zscpyO95xGURxTV9q2I1WjtiWBUR0O9IyOdLU1tiU2tKzsNSy2t5W276zsNSy2tKXrl+",
+      "searchNameRegex": "bTA40OF9b1R5W2K4UjtibjLIxgAoqCt=",
+      "searchStateRegex": "bTA40OF9b1tiUjR5W2K4bjLIxgAoqCt=",
+      "searchUrl": "xTAIzTYvXGLGZfqoxgR5hrLpXsVHzGL4yDA9Pju30OJobs08bgpCqfmGhrSgysV8QBqUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "searchUrlRegex": "bOF4yDo+xTAIzjtibGK3gOciWBu30OJo",
+      "waitTime": "searchWait[2000]@itemWait[2000]"
+    },
+    {
+      "configName": "飘花",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOF4b2FSUOSGqfhLU1tibGUR0O9IyOdLU1tibGU+WjtibG8KXrl+bjLoxCt=",
+      "itemRangeRegex": "bTeoUOZohgZHbBVH0Te4XfZ6yEA9yEAQgsNohg9oxgZIUOZoqfmGqD9tU2t3fJFsgm00W2K4bjLJykt=",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "bOF4b2FSUOSGqfhLU1R5W2K4U1NIxgAoqCI1X13/U2t5W2KKXrl+bjLoxCt=",
+      "searchNameRegex": "bOlRhrFSzsYLUEhp0OSJyfURzsAJxBJryrAoxgZIgJLIxTeph1Nohg4uyOLSqjURxTV9q2I1X13/U1NIxgAoqCI1WjtibG81UOAS0OlpysV4qr95hf7LU1tibGU+",
+      "searchPictureRegex": "bOlRhrFSzsYLUEhp0OSJyfURzsAJxBJryrAoxgZIgJLIxTeph1Nohg4uyOLSqjURxTV9q2I1X13/U1NIxgAoqCI1X13/U1N8hgASXfLGxf04yDmobBU3X13/WBU+",
+      "searchTypeRegex": "uwOwuqvXwwGxbjLHzOm5b1R5W2K4bTZ7hftR",
+      "searchUrl": "xTAIzk36Xs0s0Gu7xOAuaC8uXDZ6yBL2XDSIyf7/0rcLPJZ9hgV2xm06zDALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "searchUrlRegex": "bOlRhrFSzsYLUEhp0OSJyfURzsAJxBJryrAoxgZIgJLIxTeph1Nohg4uyOLSqjURxTV9q2I1WjtibG81UTA40OF9bBU5W2K1UOAS0OlpysV4qr95hf7LU1tibGU+",
+      "searchYearRegex": "uyDIuX5LwwGxbjLHzOm5b1R5W2K4bjLHzOm5bR=="
+    },
+    {
+      "configName": "农民",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOF4UOZohgZHbBU1b2FSUOSGqfhLU1tiU1NIhgVEqgcLU9LHqfFDU1NIxgAoqCI1X131b1R5W2K4bjLSb276yO8+",
+      "itemRangeRegex": "bOA401N4qkI1X131UOZohgZHbBV50fJYxgZIU2t3fJFsgm00W2K4bjL8xgh+",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALbIS9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "bOF4UOZohgZHbBU1b2FSUOSGqfhLU1R5W2K4U1NIhgVEqgcLU9LHqfFDU1NIxgAoqCI1X131b1tibjLSb276yO8+",
+      "realUrl": "PI9IqfJezDFbz898QCLUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "searchCache": "1day",
+      "searchNameRegex": "bTZ7hftRhrFSzsYLUEZdxgc1b1R5W2K4bjLHzOm5bR==",
+      "searchPictureRegex": "qOmIhBJHzDYLU1R5W2K4UR==",
+      "searchRangeRegex": "bTeoUOZohgZHbBVJymN4hJAt0jN2yOeSzDq4PjURxfcLUDAS0OmQyO9H0jU+Wmpz0JFggB3/WC760f7+",
+      "searchTypeRegex": "bTZ7hftRhrFSzsYLUEZC0T9oqBU+WjtibG8KXsZ7hft+",
+      "searchUrl": "xTAIzTYvXGLs0r0vXDZ5Xr95qOetXEN3zkLpbgq6qjJHqfmGhrRD0rcLPJZ9hgV2xm06zDALbIS9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "searchUrlRegex": "bTZ7hftRhrFSzsYLUEZj0Ot1b2FSUOSGqfhLU1R5W2K4UR=="
+    },
+    {
+      "configName": "小镇",
+      "configType": "WebPage2",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOF4b2FSUOSGqfhLU1tibGUR0O9IyOdLU1tibGU+WjtibG8KXrl+bjLoxCt=",
+      "itemRangeRegex": "bOA401N2yOmHzHI10Om1XfZ6yEA9yEcRzsAJxBJ7hfu5qfFQhDcRhrLoXgN8U2t3fJFsgm00W2K4bjLJykt=",
+      "itemUrlRegex": "bOF4b2FSUOSGqfhLU1R5W2K4U1NIxgAoqCI1X13/U2t5W2KKXrl+bjLoxCt=",
+      "searchNameRegex": "bORHUOZohgZHbBVIxgAoqBU+bOlRxTV9q2I1X131b1R5W2K4bjLSb276xkY+",
+      "searchPictureRegex": "qOmIhBJ6zD9ExfuSykI1WjtibG81",
+      "searchStateRegex": "zsNSy1N2yOmHzHI1zO92XgA9PTcR0Oet0jJGxf030jU+WjtibG8KXsZ7hft+",
+      "searchTypeRegex": "uwOwuqvXwwGxbjLHzOm5b1R5W2K4bTZ7hftRhrFSzsYLUEZ7yO9IXfF4yDd1b276zsNSy2t=",
+      "searchUrl": "dlLCek430TA7a1K6qT9tP1uI01LHqfmGhrR5zOS7V9N6zsAjyrAubgo1zreSzDZ30rLGqjUvUEpCqfmGhrSgysV8CDLmyDZGPgNIxfL5QBVL",
+      "searchUrlRegex": "bORHUOZohgZHbBVIxgAoqBU+bOlRxTV9q2I1WjtibG81b1tibjLSb276xkY+",
+      "searchYearRegex": "uyDIuX5LwwGxbjLHzOm5b1R5W2K4bjLHzOm5bR==",
+      "sniffExcludeRegex": "X13tYBK5WEN3zjti",
+      "waitTime": "itemWait[1000]"
+    },
+    {
+      "configName": "VidHub",
+      "configType": "WebPage",
+      "encrypted": true,
+      "itemNameRegex": "bTZ7hft+WjtibG8KXsZ7hft+",
+      "itemRangeRegex": "bOA401N2yOmHzHI1zrLG0jJ40OepU1SygT0zeJIibG8KXrA402t=",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "xTV9q2I1WjtibG81",
+      "searchNameRegex": "bTA40OF9b1R5W2K4gTY5W2KKXsA40OF9bR==",
+      "searchRangeRegex": "bO9IqfI+Wmpz0JFggB3/WC76zEZHbR==",
+      "searchStateRegex": "bTA40OF9b1tibJFHWjtibG8KXsA40OF9bR==",
+      "searchUrl": "xTAIzTYvXGLrxfA30fU50Th6zEZHXESpykLsqkJwdreSzDZ3erLGqTIDBOeSqOeGbgo1egZ9z1JNqre50jUvUEpgqfVfxfesegZ9z8mEqfuIQBVL",
+      "searchUrlRegex": "dsAGxfuEXEV9zOFShreyxTAIzk36XIN30TA7zH36XJI3bOF4yDo+WjtibJF8W1u30OJoWB8="
+    },
+    {
+      "configName": "海鸥",
+      "configType": "WebPage",
+      "encrypted": true,
+      "itemNameRegex": "0O9IyOdLU1R5W2K4UR==",
+      "itemRangeRegex": "bOA401N2yOmHzHI1hfZ2ysV8xfL5UTZ6zEcpyO9H0mpz0JFggB3/bjL8xgh+",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "xTV9q2I1WjtibG81",
+      "realUrl": "PI9IqfJezDFbz898QCLUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "searchNameRegex": "bORGUOZohgZHbBV9yEAGPBJIxgAoqBURzsAuyOdLUDS9xf030k3GaTNtaGU+bOlRxTV9q2I1X13/U1NIxgAoqCI1X13/U1NGqf7LUDV6yrpphgVnU2t3X13/WC76hCtKXrRGbR==",
+      "searchPictureRegex": "zsV2bBU3X13/WBURhfFIbBU5W2K1UjK+UkFHzOm5UOZohgZHbBVpqgASXgN6zscp0T97qCl1b1tibH76zsNSy2t=",
+      "searchStateRegex": "bO8RhrFSzsYLUDA60jU+bjL4b1R5W2K4bjLSb276zsNSy2t=",
+      "searchTypeRegex": "bTZ7hftRhrFSzsYLUDJ90Olp0D990sY1UTZIPfF9bBVphgVExftpyOeD0k3FYTNtaGU+bO8RhrFSzsYLUDqSUOqSXfeuqBU+bjL4b1R5W2K4bjLHzOm5bR==",
+      "searchUrl": "xTAIzTYvXGLs0sz5xO8pyrK5hrLpXsZ9hgV2xju7xTM/hrmIbBdGAEZ9hgV2xju7xTMDzreSzDZ30rLGqkJwdreSzDZ3erLGqTIDBOeSqOeGbgo1egZ9z1JNqre50jUvUEpgqfVfxfesegZ9z8mEqfuIQBVL",
+      "searchUrlRegex": "bORGUOZohgZHbBV9yEAGPBJIxgAoqBURzsAuyOdLUDS9xf030k3GaTNtaGU+bOlRxTV9q2I1WjtibG81UTA40OF9bBU5W2K1UTV9ykI1hDL6xrJSzDo1b1tibH76hCtKXrRGbR==",
+      "searchYearRegex": "zsV2bBU5W2K1UOmo0kI1X13/U1M6b1MKzsNSy1N2yOmHzHI1yfeIhBJ7ysZIXgAuzOdFU2t3X13/WC76zsNSy2t="
+    },
+    {
+      "configName": "人人",
+      "configType": "WebPage2",
+      "encrypted": true,
+      "itemNameRegex": "bOlRhrFSzsYLU1R/aEZ9yOe20Oe8WCK1UOSGqfhLU1tibGUR0O9IyOdLU1tibGU+UkFHzOm5b1R5W2K4bjLHzOm5bR==",
+      "itemUrlRegex": "bOlRhrFSzsYLU1R/aEZ9yOe20Oe8WCK1UOSGqfhLU1R5W2K4U1NIxgAoqCI1X13/U2tRbTZ7hft+X13/bjLHzOm5bR==",
+      "searchNameRegex": "bORHb2FSUOSGqfhLU1tibGUR0O9IyOdLU1tibGU+WjtibG8KXrl+bjL3YHt=",
+      "searchPictureRegex": "bO9pqGN2yOmHzHI1yOmvPBNohg4uyOLSqjURqOmIhBJHzDYLU1R5W2K4UR==",
+      "searchStateRegex": "bOlRhrFSzsYLUEq4qOe6XgZ9zD9SyjURxTV9q2I1X13/U1NIxgAoqCI1X13/U2t3X13/WC76hCt=",
+      "searchTypeRegex": "bO8RhrFSzsYLUD92yrtphrmIqBJ8zGU+bjL4b1R5W2K4bjLHzOm5b1MKXrl+",
+      "searchUrl": "xTAIzTYvXGLs0sz5zDe5zDe5XENGyGLHqfmGhrR/0rcLPJZ9hgV2xm06zDAL",
+      "searchUrlRegex": "bORHb2FSUOSGqfhLU1R5W2K4U1NIxgAoqCI1X13/U2t5W2KKXrl+bjL3YHt=",
+      "searchYearRegex": "bOlR0OmGqreIbBVQhDFSyDo1b1SzqToIQB8KXrl+"
+    },
+    {
+      "configName": "盒子",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "bOF4UOZohgZHX13+bOlRxTV9q2I1Xsq6qjJ7yOmuXf98XeF8W1JHxfcpYBJ7xfcpgOcigju30OJoU1N2yOmHzHI1X131b1R5W2K4bjLSb276yO8+",
+      "itemUrl": "xTAIzk36XrI50ThshDLtXDZ6yBLryrcpzDeSqjJ4qjJwdreSzDZ3egVoCsVVqTI5xTApykLUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "itemUrlRegex": "bOF4UOZohgZHX13+bOlRxTV9q2I1WjLryrcpzOFSPBJ4qjJzqj3pzr98XClpzO98XeF8W975xTApyj81UOZohgZHbBU5W1U+X13KXrl+bjLoxCt=",
+      "searchNameRegex": "efu4hrL8qBu8qfZ6qOd3UDuSyfd1a1U3X13/WBU4",
+      "searchUrl": "xTAIzk36XrI50ThshDLtXDZ6yBL4yDA9Pju7xTM/qHJ3yrJ9VDILzreSzDZ3VDlLhgN4VEZ4qkI7VDF4yf9IbCl7VE08bgpCqfmGhrSgysV8QCLUqfm8qgULPGVezreGXdmEqfuIU231PJ09h9q4qg0ezreGcf09yEALUEI=",
+      "searchUrlRegex": "UEq6qmL4qjUvU1R5W2K4UR=="
+    },
+    {
+      "configName": "之家",
+      "configType": "WebPage",
+      "encrypted": true,
+      "extensions": "unknown",
+      "itemNameRegex": "b1R5W2K4bjLSb276yO8+",
+      "itemRangeRegex": "bOA401N4qkI1zOFSPfF4zsc3fJFsgm00W2K4bjLJykt=",
+      "itemUrl": "PJZ9hgV2xmeGylLGBfALV8S9hfA9z2JwU9eHqgUpcf09yEc1a1Vwere1eD990JeHqgVNqre50TI1Qc==",
+      "itemUrlRegex": "xTV9q2I1WjtibG81",
+      "searchNameRegex": "bTA40OF9b1R5W2K4gTY5W2KKXsA40OF9bR==",
+      "searchStateRegex": "bTA40OF9b1tibJFHWjtibG8KXsA40OF9bR==",
+      "searchUrl": "xTAIzTYvXGLs0sz5PgZEhHl5hrY6zEZHXESpykLsqkJwdreSzDZ3erLGqTIDBOeSqOeGbgo1egZ9z1JNqre50jUvUEpgqfVfxfesegZ9z8mEqfuIQBVL",
+      "searchUrlRegex": "bOF4yDo+WjtibJF8W1u30OJoWc=="
+    }
+  ],
+  "searchManager": {
+    "斗罗大陆第一季@动漫@2018": {
+      "minus": "龙王传说"
+    },
+    "重启之极海听雷@剧集@2020": {
+      "minus": "极速2"
+    },
+    "雄兵连第一季@动漫@2017": {
+      "replace": "雄兵连之天河战役@动漫@2017"
+    },
+    "雄兵连第三季@动漫@2018": {
+      "replace": "雄兵连之乾坤篇@动漫@2018"
+    },
+    "雄兵连第二季@动漫@2017": {
+      "replace": "雄兵连之雄心篇@动漫@2017"
+    },
+    "鬼吹灯之龙岭迷窟@电影@2020": {
+      "hide": "苹果"
+    },
+    "龙岭迷窟@剧集@2020": {
+      "苹果": {
+        "replace": "鬼吹灯之龙岭迷窟@电影@2020"
+      }
+    },
+    "Ｘ特遣队@电影@2016": {
+      "final": "自杀小队@电影@2016"
+    }
+  },
+  "analysisApi": {
+    "云解析": {
+      "apiSupport": [
+        "iqiyi",
+        "qq",
+        "youku",
+        "mgtv",
+        "sohu",
+        "cctv",
+        "pptv",
+        "1905",
+        "miguvideo",
+        "ixigua"
+      ],
+      "apiUrl": "xTAIzTYvXGLiPjuuzOmGzrd5hrLpXr95qOetXEN3zkLJzD7LPI9IqfJezDFbz898Qc==",
+      "encrypted": true
+    },
+    "虾米": {
+      "apiSupport": [
+        "iqiyi",
+        "qq",
+        "youku",
+        "mgtv",
+        "sohu",
+        "cctv",
+        "pptv",
+        "1905",
+        "miguvideo",
+        "ixigua"
+      ],
+      "apiUrl": "xTAIzTYvXGLiPjutyfqo01u2yrI6bseGykJwBgA9yeeGylLGBfAL",
+      "encrypted": true
+    }
+  },
+  "videoManager": {
+    ".*(bfzy|bfbfvip|bfengbf)+.*": {
+      "m3u8AdRule": "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
+    },
+    ".*(high24-playback|high20-playback)+.*": {
+      "m3u8AdDouble": "16.63"
+    },
+    ".*(kuaikan)+.*": {
+      "m3u8AdRule": "(#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY)"
+    },
+    ".*(suonizy)+.*": {
+      "m3u8AdRule": "(#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXTINF.*?\\s+.*?p1ayer.*?\\.ts|#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts)"
+    },
+    ".*(vip.123pan.cn|rescdn.wuxivlog.cn)+.*": {
+      "m3u8AdRule": "(#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+)"
+    },
+    ".*(vip.ffzy|hd.ffzy|super.ffzy)+.*": {
+      "m3u8AdDouble": "17.99@14.45",
+      "m3u8AdRule": "(#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXTINF.*?\\s+.*?1171(057).*?\\.ts|#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts|#EXTINF.*?\\s+.*?6718a(403).*?\\.ts)"
+    },
+    ".*(vip.lz|hd.lz|cdnlz)+.*": {
+      "m3u8AdDouble": "17.19",
+      "m3u8AdRule": "(#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY|#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY)"
+    },
+    ".*(yqk88)+.*": {
+      "m3u8AdRule": "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+    },
+    ".*aws.ulivetv.net.*": {
+      "m3u8AdRule": "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+    },
+    ".*cqxfjz.*": {
+      "m3u8AdDouble": "10.56"
+    },
+    ".*haiwaikan.*": {
+      "m3u8AdDouble": "10.0099@10.3333@16.0599@8.1748@10.85"
+    },
+    ".*leshiyuncdn.*": {
+      "m3u8AdDouble": "15.92"
+    }
+  },
+  "televisionList": [
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6akhrYC8rZ1qUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "HD斗鱼"
+        }
+      ],
+      "tvName": "下饭音乐",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6aC8rYHlGajqUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "斗鱼HD"
+        }
+      ],
+      "tvName": "大魔王动漫解说",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6aCRGY2UsZGqUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "斗鱼HD"
+        }
+      ],
+      "tvName": "动漫解说",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHRuaCcHZCRDBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+          "tvUrlTips": "HD"
+        }
+      ],
+      "tvName": "歪研会",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6YHhHZHzGZ1qUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "HD斗鱼"
+        }
+      ],
+      "tvName": "经典港式恐怖",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6akcIaCYrZGqUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "HD斗鱼"
+        }
+      ],
+      "tvName": "足球西看台",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6akhrZ2l7ZBqUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "HD斗鱼"
+        }
+      ],
+      "tvName": "音乐猛抬头",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6akR7ZBqUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "HD斗鱼"
+        }
+      ],
+      "tvName": "罗翔刑法",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzk36Xs0s0Gu8yseu0Bu2yrI6YHhHZHzrZBqUqfm8qgULPGVezreGXdmEqfuIU231CfLvxfFohBKJX2MRWm04yDA60sYRC9cRYCM5YkoRer95Z2cwUTRrZj8RcgN7yOegqfVXxgc6ZCYsX2YrUjSXBmAZCj7RyO9nqBNTqfZnyG8RcrSGyrJ9XHlFZBt7X2M5YjNChfqSzD86ZCYsX2YrUle8qGKFYCd5YjtFaCMFX2U7YjVL",
+          "tvUrlTips": "HD斗鱼"
+        }
+      ],
+      "tvName": "经典功夫港片",
+      "uiType": "NotEPG"
+    },
+    {
+      "tvList": [
+        {
+          "encrypted": true,
+          "sniff": true,
+          "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti",
+          "tvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHUFYHUuYkUDBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+          "tvUrlTips": "HD斗鱼"
+        }
+      ],
+      "tvName": "陈翔六点半",
+      "uiType": "NotEPG"
+    },
+    {
+      "epgIndex": "hunan",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChFYjL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5Z2MvYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZCzIZBL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7Ykl7Y2z6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "高流-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSszEU5xER5hrS4yDmpyrV4yOd5hrLpa2R7akM6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCz7ZjL4yDA9PjupYsdt",
+          "tvUrlTips": "高流2-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkzGLQ.png",
+      "tvName": "湖南卫视",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "jiangsu",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChFYGL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5ZC8vYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZCzIYGL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSszEU5xER5hrS4yDmpyrV4yOd5hrLpa2R7akM6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCz7Y1L4yDA9PjupYsdt",
+          "tvUrlTips": "高流2-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/Ykztds.png",
+      "tvName": "江苏卫视",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "anhui",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2YuYBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5ZC8vYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZCzHZGL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0jupyrVSxfV6Pju2yrI6dlFde1KHXHUGZjKHY2UFY2UJZ2YIXr95qOetXDIH0CR=",
+          "tvUrlTips": "联通"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7YklGaCR6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/Ykxq2T.png",
+      "tvName": "安徽卫视",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "btv1",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCzGajL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrA1xgNI01uHy1u2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRuYjKGY2c6YHUGYCUGZ2UGY1L4yDA9PjupYsdt",
+          "tvUrlTips": "高流2"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5Z2MvYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChsYGL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7Ykl7Y2d6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkxbGV.png",
+      "tvName": "北京卫视",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "zhejiang",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChFY1L4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtFYCd5YChHa2R7akM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZCzIZjL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7Ykl7Y2h6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "高流2-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSsXfIpyju2PEArXDZ6yBL2xOm5yDeozGLohfuIxfm5XrZ3hfu5qf77YBKFYkR7zjupYsdt",
+          "tvUrlTips": "高流3"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/Ykz6eJ.png",
+      "tvName": "浙江卫视",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "dongfang",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCzHZBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSszEU5xER5hrS4yDmpyrV4yOd5hrLpa2R7akM6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChJajL4yDA9PjupYsdt",
+          "tvUrlTips": "高流3-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7Ykl7Y2R6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "高流2-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5ZC8vYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChJaBL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkzeZd.png",
+      "tvName": "东方卫视",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv1",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2MFZ1L4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtFYCd5YChHa2R7akM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChFajL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7YklHYHl6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "高流2-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkxHP0.png",
+      "tvName": "CCTV-1 综合",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv2",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrA1xgNI01uHy1u2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2luZBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流2"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5Z2MvYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChIYGL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7YklHYHU6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "高流-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkxT5q.png",
+      "tvName": "CCTV-2 财经",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv3",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2MGYBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtFYCd5YChHa2R7akM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChIZGL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drYHc6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流-电信"
+        }
+      ],
+      "tvLogo": "https://mmbiz.qpic.cn/mmbiz_png/583p0dMpJD0k1yxF4DE837AicvN1JE8gtLX3JEGSQT5DrLe6IdgA3YllTrYVicH4ZteMWF8yZb6icj9sBFcHoaHIg/0?wx_fmt=png",
+      "tvName": "CCTV-3 综艺",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv5",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2MFaBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSszEU5xER5hrS4yDmpyrV4yOd5hrLpa2R7akM6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChHYGL4yDA9PjupYsdt",
+          "tvUrlTips": "高流-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drYHY6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流2-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtrZGtGY2h6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCRFajL4yDA9PjupYsdt",
+          "tvUrlTips": "高流3-移动"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkxXMF.png",
+      "tvName": "CCTV-5 体育",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv5plus",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCh7YGL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7YklHYHc6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "高流2-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkzpI1.png",
+      "tvName": "CCTV-5+ 体育赛事",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv6",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2MFYjL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtFYCd5YChHa2R7akM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChHY1L4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drYHU6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流3-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36Xr970Th5hrA5XDSSXDZ3xfuSyfL1xfF9XDZ6yBLcCmAfXHRtakRtakRtXHUGZjKHY2UFY2UrZkRJXr95qOetXDIH0CR=",
+          "tvUrlTips": "高卡2-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/Ykxjr4.png",
+      "tvName": "CCTV-6 电影",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv7",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCzHYGL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtFYCd5YChHa2R7akM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChGZjL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSszEU5xER5hrS4yDmpyrV4yOd5hrLpa2R7akM6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChIZjL4yDA9PjupYsdt",
+          "tvUrlTips": "高流1-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drY2c6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流2-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkxXMF.png",
+      "tvName": "CCTV-7 国防军事",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv8",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2M7ajL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5ZC8vYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChHYBL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drYHl6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流2-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkxzZ9.png",
+      "tvName": "CCTV-8 电视剧",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv10",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCzHYjL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0jupyrVSxfV6Pju2yrI6dlFde1KIXHUGZjKHY2UFY2UJZCd7Xr95qOetXDIH0CR=",
+          "tvUrlTips": "高流-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drYHh6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流2-电信"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSszEU5xER5hrS4yDmpyrV4yOd5hrLpa2R7akM6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChHZ1L4yDA9PjupYsdt",
+          "tvUrlTips": "高流3-电信"
+        }
+      ],
+      "tvLogo": "https://mmbiz.qpic.cn/mmbiz_png/583p0dMpJD0k1yxF4DE837AicvN1JE8gtic6bcyTSgmicLmObeTbKqnogaQC2G8ZExqibaOo5YJD4FBKZEb1GqtnbA/0?wx_fmt=png",
+      "tvName": "CCTV-10 科教",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv12",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCzHYBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流2"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtFYCd5YChHa2R7akM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChGaBL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drYHz6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流-电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkziRK.png",
+      "tvName": "CCTV-12 社会与法",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv13",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2MFYBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzTYvXGLoxgq9XgNohg85hrZI0Du90sY5hrZI01u2yrI6hrZI01LpqgVEqeL2hsArYCZQyge8XDIH0CR=",
+          "tvUrlTips": "高流3"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36Xr970Th5hrA5XDSSXDZ3xfuSyfL1xfF9XDZ6yBLcCmAfXHRtakRtakRtXHUGZjKHY2UFY2UrZkR7Xr95qOetXDIH0CR=",
+          "tvUrlTips": "高流1"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drYHR6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "高流2"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvZHM7Yk3GYk3FYkM7a23GY9IvZ2MrYjLuxfu3qBKGXrZ3YkM7YkM7aCMuaCM7YkM7Ykl7YCc6xfu8qgR5yCZJakLrxgVI0fmoAOLphf95bg94yDS9XDF40DeQxOFHXE4IqBu2yrI=",
+          "tvUrlTips": "电信"
+        }
+      ],
+      "tvLogo": "https://s1.ax1x.com/2020/05/06/YkzFxO.png",
+      "tvName": "CCTV-13 新闻",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctvchild",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCzHY1L4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrA1xgNI01uHy1u2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZ2luYGKFXDIH0CR=",
+          "tvUrlTips": "高流3"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZjtFYCd5YChHa2R7akM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChHaBL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36Xr970Th5hrA5XDSSXDZ3xfuSyfL1xfF9XDZ6yBLcCmAfXHRtakRtakRtXHUGZjKHY2UFY2UrZCzGXr95qOetXDIH0CR=",
+          "tvUrlTips": "电信1"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XJoGZkMua2R7akzvYHRraC3tYkUFa2l7YklvaDdJgC3rZ2l7XJNYemh6akRtakRuYCM6Y2UIXHYGY2lGY2drZkM6xfu8qgR5yCZJaM==",
+          "tvUrlTips": "电信2"
+        }
+      ],
+      "tvLogo": "https://mmbiz.qpic.cn/mmbiz_png/583p0dMpJD0k1yxF4DE837AicvN1JE8gtoRZrkUjnJJvD1YEibtV5H5oIIWGJPLicLljYvAJRcPr13RNEUk7BPf3w/0?wx_fmt=png",
+      "tvName": "CCTV-14 少儿",
+      "uiType": "Normal"
+    },
+    {
+      "epgIndex": "cctv15",
+      "tvList": [
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrLI0TVGzGu3yju2xO95hfJ6hD9oqBu2yrI6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZCh7YBL4yDA9PjupYsdt",
+          "tvUrlTips": "高流"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XHYuX2lHZBtFYHR5ZCRvYCRtaCM6dlFde1KtakRtak8FYjKGY2c6YHUGYCUGZChIYBL4yDA9PjupYsdt",
+          "tvUrlTips": "高卡"
+        },
+        {
+          "encrypted": true,
+          "tvUrl": "xTAIzk36XrSszEU5xER5hrS4yDmpyrV4yOd5hrLpa2R7akM6dlFde1KtakRtakRtajKGY2c6YHUGYCUGZChIYBL4yDA9PjupYsdt",
+          "tvUrlTips": "电信"
+        }
+      ],
+      "tvLogo": "https://mmbiz.qpic.cn/mmbiz_png/583p0dMpJD0k1yxF4DE837AicvN1JE8gt6v4mJxN7CqftnMP11kBtDe9Jv4NBVVKuuqefzNGpBJcplxzPRqLQ9A/0?wx_fmt=png",
+      "tvName": "CCTV-15 音乐",
+      "uiType": "Normal"
+    }
+  ],
+  "fastVideoList": [
+    {
+      "encrypted": true,
+      "extensions": "unknown",
+      "fvName": "哇妹综解",
+      "fvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHRrZCzuY2MDBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+      "isLive": true,
+      "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti"
+    },
+    {
+      "encrypted": true,
+      "extensions": "unknown",
+      "fvName": "小片片说大片",
+      "fvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHcGZCRJZCdDBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+      "isLive": true,
+      "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti"
+    },
+    {
+      "encrypted": true,
+      "extensions": "unknown",
+      "fvName": "科幻Fans布玛",
+      "fvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHYJYkRHYkcDBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+      "isLive": true,
+      "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti"
+    },
+    {
+      "encrypted": true,
+      "extensions": "unknown",
+      "fvName": "牛叔说电影",
+      "fvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHUsZCRJZ2dDBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+      "isLive": true,
+      "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti"
+    },
+    {
+      "encrypted": true,
+      "extensions": "unknown",
+      "fvName": "小乔讲电影",
+      "fvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHRIYCYuYkRDBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+      "isLive": true,
+      "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti"
+    },
+    {
+      "encrypted": true,
+      "extensions": "unknown",
+      "fvName": "蓝雀爆笑解说",
+      "fvUrl": "xTAIzTYvXGLs0sz5qOLJPgd5hrLpXHRrZChsZC8DBOeSqOeGbgo1egZ9z1JNqre50jUvU8J6PD9oyOl6ZBt7UjSgxfu8ys0HUludUkl7X2MwUm04y2hIaGNtZ2c4Ulm7zOF9ere1Br9IXHdHZGtHZ1M3BISdCd7oUOF4xrdRAre2xrK4UlZ3zDLpqBKFYCd5Yjt7X2MRdrmDhgV4XHdHZGtHZ1NmqOz6YClJX2M5YC87YBtGYkM1Qc==",
+      "isLive": true,
+      "sniffTargetRegex": "xTAIzTY/a1K6X135qOLJPge2qOtGXDZ5XrAuyO9rqfqo01ti"
+    }
+  ]
+}
