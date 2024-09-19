@@ -45,4 +45,17 @@ BiTree create_tree(ElemType *data, int n) // create a tree by level order
     return tree;
 }
 
+void find_node_by_val(BiTree root, BiTNode *&p, int val)
+{
+    if (!root)
+        return;
+    if (root->data == val)
+    {
+        p = root;
+        return;
+    }
+    find_node_by_val(root->left, p, val);
+    find_node_by_val(root->right, p, val);
+}
+
 #endif // !_BINARY_TREE_H_
