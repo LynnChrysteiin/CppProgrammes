@@ -1,3 +1,6 @@
+#ifndef _ADJLIST_GRAPH_H_
+#define _ADJLIST_GRAPH_H_
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -40,7 +43,7 @@ void print_graph(AdjListGraph graph)
 {
     for (int i = 0; i < graph.n_vertex; i++)
     {
-        auto p = graph.vertexes[i].next_edge;
+        GraphNode *p = graph.vertexes[i].next_edge;
         printf("%d: ", graph.vertexes[i].vertex_index);
         while (p)
         {
@@ -50,3 +53,5 @@ void print_graph(AdjListGraph graph)
         printf("\n");
     }
 }
+
+#endif // !_ADJLIST_GRAPH_H_
