@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int main()
 {
@@ -23,6 +22,5 @@ int main()
             ;
         printf("%d\n", minute);
     }
-    system("pause");
     return 0;
 }

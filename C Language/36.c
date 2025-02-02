@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 #include <string.h>
 
 #define N 10
@@ -36,6 +36,5 @@ int main()
     scanf("%s", quest);
     result = search_info(data, quest);
     printf("%s  %4d\n", result.name, result.score);
-    system("pause");
     return 0;
 }

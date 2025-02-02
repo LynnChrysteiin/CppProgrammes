@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int main()
 {
@@ -17,6 +16,5 @@ int main()
         }
         printf("\n");
     }
-    system("pause");
     return 0;
 }

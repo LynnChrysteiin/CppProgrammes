@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 void compute(float a, float b, float *pc, float *pd)
 {
@@ -13,6 +12,5 @@ int main()
     scanf("%f%f", &a, &b);
     compute(a, b, &c, &d);
     printf("%g %g", c, d);
-    system("pause");
     return 0;
 }

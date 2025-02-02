@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int main()
 {
@@ -25,6 +24,5 @@ int main()
     {
         (i == n - 1) ? printf("%d", array[i]) : printf("%d ", array[i]);
     }
-    system("pause");
     return 0;
 }

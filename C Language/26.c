@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 #define N 100
 
@@ -22,6 +21,5 @@ int main()
     }
     str3[len1 + len2] = 0;
     printf("%s", str3);
-    system("pause");
     return 0;
 }

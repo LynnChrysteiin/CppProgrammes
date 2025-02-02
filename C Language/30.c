@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int nextYear, nextMonth;
 
@@ -23,6 +22,5 @@ int main()
     scanf("%d %d", &year, &month);
     get_next(year, month);
     printf("%d-%d\n", nextYear, nextMonth);
-    system("pause");
     return 0;
 }

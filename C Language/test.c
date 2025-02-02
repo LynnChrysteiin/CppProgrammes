@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 #define N 256
 
 int main()
@@ -39,6 +38,5 @@ int main()
         }
         printf("\n");
     }
-    system("pause");
     return 0;
 }

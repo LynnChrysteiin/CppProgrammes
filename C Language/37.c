@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
 #include <string.h>
 
 #define N 10
@@ -40,6 +40,5 @@ int main()
     int num = select_highest(srcData, resData);
     for (int i = 0; i < num; i++)
         printf("%d  %4d\n", resData[i].id, resData[i].score);
-    system("pause");
     return 0;
 }

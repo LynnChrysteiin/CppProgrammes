@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <iostream>
 #define N 20
 
 int main()
@@ -25,6 +24,5 @@ int main()
         }
         printf("\n");
     }
-    system("pause");
     return 0;
 }

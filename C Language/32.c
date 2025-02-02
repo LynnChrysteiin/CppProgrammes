@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int get_amount(int array[], int n, int result[])
 {
@@ -26,6 +25,5 @@ int main()
     int count = get_amount(num, m, result);
     for (int i = 0; i < count; i++)
         printf("%d ", result[i]);
-    system("pause");
     return 0;
 }

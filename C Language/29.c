@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <math.h>
-#include <iostream>
 
 int isPrime(int a)
 {
@@ -19,6 +18,5 @@ int main()
         if (isPrime(i) && isPrime(n - i))
             count++;
     printf("%d", count);
-    system("pause");
     return 0;
 }

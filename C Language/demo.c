@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <iostream>
+
 #define N 100
 
 void init(int array[26])
@@ -28,6 +28,5 @@ int main()
                 printf("%c:%d\n", i + 65, times[i]);
         }
     }
-    system("pause");
     return 0;
 }

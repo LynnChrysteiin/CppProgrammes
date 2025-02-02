@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 #define N 100
 
@@ -20,6 +19,5 @@ int main()
         ptr -= len;
     while (*ptr)
         printf("%c", *ptr++);
-    system("pause");
     return 0;
 }

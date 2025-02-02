@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 #define n 100
 
@@ -24,6 +23,5 @@ int main()
     scanf("%s%s", a, b);
     cat(a, b);
     printf("%s", b);
-    system("pause");
     return 0;
 }

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int main()
 {
@@ -15,6 +14,5 @@ int main()
         }
     }
     printf("%d", max);
-    system("pause");
     return 0;
 }

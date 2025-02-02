@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int fac(int a)
 {
@@ -20,6 +19,5 @@ int main()
     scanf("%d%d", &n, &m);
     c = comb(n, m);
     printf("%d", c);
-    system("pause");
     return 0;
 }
