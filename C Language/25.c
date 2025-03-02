@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 #define N 100
 
@@ -22,6 +21,5 @@ int main()
         i++;
     }
     (len1 >= len2) ? printf("%s", str1) : printf("%s", str2);
-    system("pause");
     return 0;
 }

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int main()
 {
@@ -37,6 +36,5 @@ int main()
     {
         printf("Empty array!");
     }
-    system("pause");
     return 0;
 }

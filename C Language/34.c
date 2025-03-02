@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 #define n 10
 
@@ -43,6 +42,5 @@ int main()
     input(a);
     sort(a);
     output(a);
-    system("pause");
     return 0;
 }

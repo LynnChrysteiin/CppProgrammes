@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <iostream>
 
 int get_dif(int array[], int n)
 {
@@ -23,6 +22,5 @@ int main()
         scanf("%d", num + i);
     res = get_dif(num, m);
     printf("%d", res);
-    system("pause");
     return 0;
 }
