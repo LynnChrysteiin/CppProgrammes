@@ -65,7 +65,7 @@ Case:1
 #include <iomanip>
 using namespace std;
 
-map<int, string> warrior_name = {
+map<int, string> warrior_names = {
     {0, "dragon"},
     {1, "ninja"},
     {2, "iceman"},
@@ -94,7 +94,7 @@ public:
             return;
         if (power >= hp_warrior[warrior_order[current_warrior_index]])
         {
-            string warrior_name = ::warrior_name[warrior_order[current_warrior_index]];
+            string warrior_name = ::warrior_names[warrior_order[current_warrior_index]];
             int warrior_hp = hp_warrior[warrior_order[current_warrior_index]];
             int warrior_amount = ++warrior_count[warrior_order[current_warrior_index]];
             power -= hp_warrior[warrior_order[current_warrior_index]];
