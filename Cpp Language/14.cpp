@@ -1,6 +1,6 @@
 /*
 输入
-多组数据，每组一行，是两个不带空格的字符串
+多组数据，每组一行，是两个不带空格的字符�??
 输出
 对每组数据，先输出一行，打印输入中的第一个字符串三次
 然后再输出一行，打印输入中的第二个字符串三次
@@ -31,56 +31,44 @@ public:
         if (p)
             delete[] p;
     }
-    void Copy(const char *s)
+    // --- fill in the blank ---
+    void Copy(char *s)
     {
         if (p)
             delete[] p;
-        if (s)
-        {
-            p = new char[strlen(s) + 1];
-            strcpy(p, s);
-        }
-        else
-            p = NULL;
+        p = new char[strlen(s) + 1];
+        strcpy(p, s);
     }
-    friend ostream &operator<<(ostream &os, const MyString &s)
+    char *get() const
     {
-        if (s.p)
-            os << s.p;
-        return os;
+        return p;
+    }
+    MyString(const MyString &s)
+    {
+        p = new char[strlen(s.get()) + 1];
+        strcpy(p, s.get());
+    }
+    MyString &operator=(MyString &s)
+    {
+        if (p)
+            delete[] p;
+        p = new char[strlen(s.get()) + 1];
+        strcpy(p, s.get());
+        return *this;
     }
     MyString &operator=(const char *s)
     {
-        if (p != s)
-        {
-            if (p)
-                delete[] p;
-            if (s)
-            {
-                p = new char[strlen(s) + 1];
-                strcpy(p, s);
-            }
-            else
-                p = NULL;
-        }
+        if (p)
+            delete[] p;
+        p = new char[strlen(s) + 1];
+        strcpy(p, s);
         return *this;
     }
-    MyString &operator=(const MyString &s)
+    operator char *()
     {
-        if (this != &s)
-        {
-            if (p)
-                delete[] p;
-            if (s.p)
-            {
-                p = new char[strlen(s.p) + 1];
-                strcpy(p, s.p);
-            }
-            else
-                p = NULL;
-        }
-        return *this;
+        return p;
     }
+    // ---
 };
 
 int main()

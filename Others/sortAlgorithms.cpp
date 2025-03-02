@@ -148,7 +148,7 @@ int countTime(int arr[], int n, void (*sort)(int[], int, int))
 
 int main()
 {
-    int n = 100000;
+    int n = 50000;
     std::vector<int> array = randomArray(n);
     int arr[n] = {0};
 

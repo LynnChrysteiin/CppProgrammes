@@ -18,7 +18,7 @@ int partition(int array[],int left, int right)
 
 void qsort(int array[], int left, int right)
 {
-    if (left >= right)
+    if (left > right)
         return;
     int pivot_pos = partition(array, left, right);
     qsort(array, left, pivot_pos - 1);
